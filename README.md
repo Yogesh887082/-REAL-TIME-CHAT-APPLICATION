@@ -43,3 +43,6 @@ This project is a **real-time chat application** built using **WebSockets**, **N
 This project is an excellent way to learn **real-time communication using WebSockets** and can be extended into a full-fledged chat platform. 🚀
 
 OUTPUT
+
+
+![Image](https://github.com/user-attachments/assets/6fe87318-dc61-4697-ade2-159d243cfc7d)
